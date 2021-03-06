@@ -19,5 +19,6 @@ knitr::include_graphics("me.jpg")
 -  R, Rstudio, R shiny, Rmarkdown
 -  exercise
 -  learning anything and everything
+-  [Cooking}(/index2.html)
 
 
