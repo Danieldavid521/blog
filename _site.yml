@@ -18,8 +18,9 @@ navbar:
 #      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "About"
-      icon: fa-file-pdf-o                   # CHANGE HERE 
+      icon: fa-file-pdf-o   
+      href: https://github.com
     - text: "GitHub"
       icon: fa-github
-
+      href: https://github.com
   
