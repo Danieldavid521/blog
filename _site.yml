@@ -1,7 +1,7 @@
-name: "Personal Page of Danieldavid521"                                # CHANGE HERE 
+name: "Uranium Chainlink Dashboard"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Personal Page of Danieldavid521"                             # CHANGE HERE 
+  title: "Uranium Chainlink Dashboard"                             # CHANGE HERE 
   type: inverse
   left:
 #    - text: "Home"
@@ -17,25 +17,11 @@ navbar:
 #      icon: fa-rss
 #      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
+    - text: "About"
+      icon: fa-file-pdf-o
       href: mailto:ddjachetta@mail.fhsu.edu                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/danieldavid521  
-    - text: "Stackoverflow"
-      icon: fa-stack-overflow
-      href: https://stackoverflow.com/users/10992158/daniel-jachetta?tab=profile
-    - text: "Youtube"
-      icon: fa-youtube
-      href: https://www.youtube.com/channel/UC9BX5lanFERRNbWQpvuQ-xQ
-    - text: "Instagram"
-      icon: fa-instagram
-      href: https://www.instagram.com/808sanddataviz/
-    - text: "Twitter"
-      icon: fa-twitter
-      href: https://twitter.com/808sanddataviz
-output:
-  html_document:
-    theme: spacelab
-    highlight: textmate
+
+  
