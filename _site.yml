@@ -18,10 +18,8 @@ navbar:
 #      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "About"
-      icon: fa-file-pdf-o
-      href: mailto:ddjachetta@mail.fhsu.edu                    # CHANGE HERE 
+      icon: fa-file-pdf-o                   # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/danieldavid521  
 
   
