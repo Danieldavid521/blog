@@ -3,7 +3,26 @@ title: ""
 css: style.css
 ---
 
-<style>
-  body {background-color:#2A252D}
-</style>
+
+Hello My name is Daniel Jachetta III, or username DanielDavid521. Currently, I work at Commerce Bank In Kansas City as a Network Operations Specialist. Looking to further my career with my R programming skills to become a Data analyst! I enjoy using the Tidyverse, Rmarkdown, and Shiny. I look to learn something new every day. Below are my two other online projects
+
+> [808s and Dataviz](https://www.808sanddataviz.com) 
+
+> [Cashflows and assets](https://www.cashflowandassets.com) 
+
+<div>
+```{r, echo = FALSE}
+knitr::include_graphics("family.jpg")
+```
+</div>
+
+**Interest:**
+
+-  Music
+-  My family
+-  R, Rstudio, R shiny, Rmarkdown
+-  exercise
+-  technology
+-  learning things
+
 
